@@ -7,3 +7,5 @@ results.json
 .vscode/
 .idea/
 *.egg-info/
+
+schedule_*.png
